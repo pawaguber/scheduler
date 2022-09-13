@@ -1,2 +1,0 @@
-# scheduler
-Task Manager
